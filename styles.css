@@ -1,0 +1,57 @@
+.photo
+{
+    height: 950px;
+    margin-left: 10px;
+    background-image: url(https://th.bing.com/th/id/R.aaf6a28d3b2ae44671c5c96f23ecf52d?rik=BcRGyqnIl376Ag&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fb%2f5%2fc%2f1184034-vertical-healthy-food-wallpaper-1920x1200-for-ipad-pro.jpg&ehk=D%2f8CgzNODM1IUMiucFRRSJKcw3oB39lz0ABWwCVPsB0%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: fullscreen;
+}
+
+
+.diet
+{
+    height:600px;
+    display: flex;
+    background-color:#00bbff;
+    position: relative;
+    top:600px;
+    margin-left: 175px;
+    margin-right: 175px;
+}
+.pic
+{
+   height:600px;
+   width:800px;
+   margin-right:350px;
+}
+.pic img{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+.mat{
+    background-color: #00bbff;
+}
+.mat h1{
+    position:relative;
+    right: 300px;
+}
+.mat form{
+    position:relative;
+    right: 300px;
+    font-size: 25px;
+}
+.mat form input{
+    margin-top:10px;
+    size: 20px;
+
+}
+.mat label
+{
+    margin-top:10px;
+}
+.button{
+    background-color: rgb(57, 159, 190);
+    margin-top:10px;
+    size: 20px;
+}
